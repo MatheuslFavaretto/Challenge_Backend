@@ -40,3 +40,39 @@ Iniciar o banco de dados e criar requisições CRUD básicas.
     </tr>
 </table>
 
+### Semana 2 ✅
+Criar nova tabela para categorias com relação de categoria 1:n vídeos; fazer rotas CRUD para as categorias; criar rota para listar vídeos por categoria; e criar rota com parâmetros de busca para os vídeos.
+
+<table>
+    <tr>
+        <th>Listar todas as Categorias</th>
+        <th>Listar uma categoria</th>
+    </tr>
+    <tr>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185426-f34f9125-7fac-4f6e-9c90-b49eed384c2c.gif" alt="listar todas as categoria"></td>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185473-168c7b92-1c2f-40b1-a1aa-b0e43dd531e3.gif" alt="listar uma categoria"></td>
+    </tr>
+    <tr>
+        <th>Adicionar uma categoria</th>
+        <th>Alterar uma categoria</th>
+    </tr>
+    <tr>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185523-6e6fcb65-ceba-4774-88dc-8cd3c0eed40a.gif" alt="adicionar uma categoria"></td>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185566-e1c95396-1e0e-4e91-b061-e80e9f3bf555.gif" alt="alterar uma categoria"></td>
+    </tr>
+    <tr>
+        <th>Deletar uma categoria</th>
+        <th>Listar vídeos por categoria</th>
+    </tr>
+    <tr>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185604-7652821e-fb35-4b4c-a9f0-2f9ee120d08a.gif" alt="deletar uma categoria"></td>
+        <td><img src="https://media.giphy.com/media/I3hRYTRvQBjKzYIT7j/giphy.gif" alt="listar videos por categoria"></td>
+    </tr>
+    <tr>
+        <th>Procurar um vídeo</th>
+    </tr>
+    <tr>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185629-5bea1625-462e-4d48-baa8-1dceee1f1c52.gif" alt="procurar um vídeo"></td>
+    </tr>
+</table>
+
