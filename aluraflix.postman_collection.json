@@ -110,6 +110,167 @@
                 }
             },
             "response": []
+        },
+        {
+          "name": "http://localhost:8000/categorias/",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "body": {},
+            "url": {
+              "raw": "http://localhost:8000/categorias/",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "8000",
+              "path": [
+                "categorias/"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:8000/categorias/1/",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "body": {},
+            "url": {
+              "raw": "http://localhost:8000/categorias/1/",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "8000",
+              "path": [
+                "categorias",
+                "1/"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:8000/categorias/",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"titulo\": \"Nova Categoria\", \n \n  \"cor\": \"preto\" \n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/categorias/",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "8000",
+              "path": [
+                "categorias/"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:8000/categorias/1/",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"titulo\": \"Categoria Atualizada\", \n  \"cor\": \"branco\" \n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/categorias/1/",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "8000",
+              "path": [
+                "categorias",
+                "1/"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:8000/categorias/1/",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "body": {},
+            "url": {
+              "raw": "http://localhost:8000/categorias/1/",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "8000",
+              "path": [
+                "categorias",
+                "1/"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+            "name": "http://localhost:8000/categorias/1/videos/",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:8000/categorias/1/videos/",
+                    "host": [
+                        "http://localhost:8000"
+                    ],
+                    "path": [
+                        "categorias",
+                        "1",
+                        "videos/"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "http://localhost:8000/videos/?search=",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:8000/videos/?search=",
+                    "host": [
+                        "http://localhost:8000"
+                    ],
+                    "path": [
+                        "videos/"
+                    ],
+                    "query": [
+                        {
+                            "key": "search",
+                            "value": ""
+                        }
+                    ]
+                }
+            },
+            "response": []
         }
     ]
 }
