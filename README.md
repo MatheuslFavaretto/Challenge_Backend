@@ -66,7 +66,7 @@ Criar nova tabela para categorias com relação de categoria 1:n vídeos; fazer 
     </tr>
     <tr>
         <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185604-7652821e-fb35-4b4c-a9f0-2f9ee120d08a.gif" alt="deletar uma categoria"></td>
-        <td><img src="https://media.giphy.com/media/I3hRYTRvQBjKzYIT7j/giphy.gif" alt="listar videos por categoria"></td>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/243185954-db72e1a0-548e-4541-9fa2-b7ba1f23a338.gif" alt="listar videos por categoria"></td>
     </tr>
     <tr>
         <th>Procurar um vídeo</th>
