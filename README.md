@@ -8,7 +8,6 @@ Este repositório guarda a minha versão do back-end do site AluraFlix, desenvol
 | :rocket: URL         | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://i.imgur.com/4BTHvAB.png#vitrinedev)
 
 ## Detalhes do Projeto
 O projeto tem o objetivo de construir um back-end para o front do site Aluraflix. Resolvi utilizar as tecnologias Django.
