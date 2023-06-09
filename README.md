@@ -90,3 +90,5 @@ Para a autenticação, resolvi usar o Basic Auth, criado com login de um usuári
         <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/244811987-6334a1bb-ef94-4880-aed7-072615f32155.gif" alt="autenticação"></td>
     </tr>
 </table>
+
+
