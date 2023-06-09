@@ -1,10 +1,10 @@
-# Alura Challenge Back-end 5 - AluraFlix API
+# Alura Challenge Back-end - AluraFlix API
 
 Este repositório guarda a minha versão do back-end do site AluraFlix, desenvolvido no Alura Challenge Back-End 5.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Alura Challenge Back-end 5 - Alura Flix**
-| :label: Tecnologias | 
+| :sparkles: Nome        | **Alura Challenge Back-end - AluraFlix**
+| :label: Tecnologias | Django, Docker, AWS e Terraform
 | :rocket: URL         | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -76,3 +76,17 @@ Criar nova tabela para categorias com relação de categoria 1:n vídeos; fazer 
     </tr>
 </table>
 
+### Semana 3/4 ✅
+Criar funcionalidades de paginação, autenticação e fazer o deploy da API.
+Para a autenticação, resolvi usar o Basic Auth, criado com login de um usuário. Para testar usar o `"username": "matheus"` e a `"password":"toor"`. Entendo que seria melhor uma criptografia da senha, mas escolhi pela simplicidade.
+
+<table>
+    <tr>
+        <th>Paginação</th>
+        <th>Autenticação</th>
+    </tr>
+    <tr>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/244812122-36446dd5-5938-473b-85e6-1a3febae2369.gif" alt="paginação"></td>
+        <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/244811987-6334a1bb-ef94-4880-aed7-072615f32155.gif" alt="autenticação"></td>
+    </tr>
+</table>
