@@ -1,6 +1,6 @@
 # Alura Challenge Back-end - AluraFlix API
 
-Este repositório guarda a minha versão do back-end do site AluraFlix, desenvolvido no Alura Challenge Back-End 5.
+Este repositório guarda a minha versão do back-end do site AluraFlix, desenvolvido no Alura Challenge Back-End.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Challenge Back-end - AluraFlix**
