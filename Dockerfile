@@ -9,7 +9,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-ENV port 8000
 EXPOSE 8000
 
 RUN chmod +x start.sh
