@@ -7,7 +7,7 @@ Este repositório guarda a minha versão do back-end do site AluraFlix, desenvol
 | :label: Tecnologias | Django, Docker, AWS e Terraform
 | :rocket: URL         | 
 
-<td><img src=https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/244931142-e7b7342c-52dd-4d9f-9303-2bc44928f010.png></td>
+<td><img src=https://github-production-user-asset-6210df.s3.amazonaws.com/116848225/244931142-e7b7342c-52dd-4d9f-9303-2bc44928f010.png#vitrinedev></td>
 
 
 ## Detalhes do Projeto
